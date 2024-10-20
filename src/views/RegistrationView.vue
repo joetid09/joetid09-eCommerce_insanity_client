@@ -1,11 +1,11 @@
 <script setup>
 // import TheWelcome from '../components/TheWelcome.vue'
-import UserLogin from '@/components/UserLogin.vue'
+import UserRegistration from '@/components/UserRegistration.vue'
 </script>
 
 <template>
   <main>
     <!-- <TheWelcome /> -->
-    <UserLogin />
+    <UserRegistration />
   </main>
 </template>

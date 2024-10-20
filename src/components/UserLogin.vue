@@ -10,5 +10,7 @@
       <label for="userPassword">Password:</label><br />
       <input type="password" id="userPasssword" name="userPassword" />
     </form>
+    <span>Don't have an account?</span>
+    <router-link to="/registration">Create Account</router-link>
   </html>
 </template>
